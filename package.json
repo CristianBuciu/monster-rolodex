@@ -2,7 +2,7 @@
   "name": "monster-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://CristianBuciu.github.io/monster-r-olodex.git ",
+  "homepage":"https://CristianBuciu.github.io/monster-rolodex.git ",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.1",
